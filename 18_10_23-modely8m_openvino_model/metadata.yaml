@@ -1,0 +1,16 @@
+description: Ultralytics 18_10_23-modely8m model trained on custom.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-23T11:18:52.745155'
+version: 8.0.178
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: gancho_grua
+  1: con_carga
+  2: sin_carga
+  3: person
